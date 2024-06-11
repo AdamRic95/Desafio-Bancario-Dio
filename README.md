@@ -13,3 +13,25 @@ Este é um projeto simples de um banco virtual chamado Banco Novo. O objetivo de
 ## Pré-requisitos
 
 - Python 3.x instalado
+
+## Como executar o projeto
+
+1. Clone o repositório para o seu computador:
+git clone https://github.com/AdamRic95/Desafio-Bancario-Dio.git
+
+
+2. Navegue até o diretório do projeto:
+
+
+3. Execute o script Python:
+
+
+4. Siga as instruções apresentadas no console para interagir com o Banco Novo.
+
+## Contribuição
+
+Contribuições são bem-vindas! Se você deseja contribuir para este projeto, por favor, abra uma issue para discutir as mudanças propostas.
+
+## Licença
+
+Este projeto está licenciado sob a [MIT License](https://opensource.org/licenses/MIT).
